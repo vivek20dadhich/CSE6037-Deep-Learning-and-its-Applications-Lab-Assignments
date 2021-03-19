@@ -9,3 +9,5 @@ In Assessment - 1
   ~And images zip folder is for task#3
   
  In Assessment - 2
+ 
+ ~Lilac.jpg is for image filtering and entropy task
